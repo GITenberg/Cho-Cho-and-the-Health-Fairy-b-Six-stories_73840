@@ -5,12 +5,17 @@ contributor:
     agent_name: Gillespie, Jessie
     gutenberg_agent_id: '38275'
     url: http://www.gutenberg.org/2009/agents/38275
+covers:
+- cover_type: archival
+  image_path: 73840-h/images/cover.jpg
 creator:
   author:
     agent_name: Griffith, Eleanor Glendower
     gutenberg_agent_id: '57244'
     url: http://www.gutenberg.org/2009/agents/57244
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73840#Cho-Cho-and-the-Health-Fairy-b-Six-stories
 gutenberg_issued: '2024-06-16'
 gutenberg_type: Text
 identifiers:
